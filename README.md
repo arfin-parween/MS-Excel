@@ -1,5 +1,5 @@
 # MS-Excel
-Numerical methods are a collection of techniques used to find approximate solutions to mathematical problems that cannot be solved exactly.
+Excel allows users to enter, store, and manage large amounts of data in a structured format using rows and columns.
 
 ## Hey There!
 
