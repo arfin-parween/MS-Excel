@@ -3,7 +3,7 @@ Excel allows users to enter, store, and manage large amounts of data in a struct
 
 ## Hey There!
 
-This is my course on MS EXCEL exclusively on YouTube with notes.<br /> 
+This is my course on MS EXCEL exclusively on YouTube with dataset.<br /> 
 Click Here to access Playlist: <a href="https://www.youtube.com/playlist?list=PL23dd-8zssJCSxJZ0OIHbFB95J5OWHr1P"> <img align="center" src="https://cdn.icon-icons.com/icons2/584/PNG/512/play_youtube_video_media_playlist_vid_icon-icons.com_55213.png" alt="start practicing"  height="50" width="50" /> </a>
 
 Whether you’re a student, a professional, or just someone passionate about data and data analysis through EXCEL, this course is designed to provide you with a comprehensive understanding of MS EXCEL. I will cover a wide range of topics including
